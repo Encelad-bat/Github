@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(8, 184, 243);
+    align-content: center;
+}
+
+@font-face {
+    font-family: Sketch;
+    src: url(css/Sketch.ttf);
+}
+
+span{
+    display: block;
+    width: 20%;
+    font-family: Sketch;
+    font-size: 100pt;
+    color: whitesmoke;
+    margin: 0 auto;
+}
